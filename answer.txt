@@ -1,0 +1,33 @@
+Part 1: Theoretical Questions
+Q1. List the steps involved in setting up a development environment for a web or
+mobile web project. (10 points)
+Q2. Explain the importance of using version control systems like Git in
+collaborative software development. (10 points)
+
+1.This is the steps that we need and working during build the project:
+_set up environment like create repository github or bibucket to store project
+_invite member of teams to github
+_create trello or jira to makes plain to easy follow what are to working fo todad or tomorrow 
+_standup meeting every morning to make sure who working for what and where have they been working
+_follow up meeting with maneger or team leader to up date or new points that they need more
+_help member teams on where that they difficail to work on we should help to them.
+
+2.As i know about git i use to push, pull or merge code to github or bibucket. For the reason that i use it
+because it can make us easy control code and push to repository. Example if i don't use git to push code 
+to repository i will lost code in one day but if i use i will can see it in the future.
+
+Part 3: Bonus Questions (Optional)
+Q1. Describe the Git Flow branching model and its benefits in a team environment.
+(5 points)
+Q2. What are the key considerations when configuring a code quality control
+utility? (5 points)
+
+1.Git Flow branching:
+_create branch name that we working on (ex: menu branch)
+_when finish it need to commit and push to your branch name (menu branch) 
+_and then merge your code from your branch name to branch main. because we need to
+ merge code together with member on your teams
++For the benefits in teams are: Example in one company have developer 100 people build one website
+and have work diffirent if we merge to only branch main it will can lost code or we don't know
+what this or there code is. But if we create branch name follow our work like (menu branch) we will 
+see the title of our work that working on. 
